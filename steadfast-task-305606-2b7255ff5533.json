@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "steadfast-task-305606",
+    "private_key_id": "2b7255ff55331fb084bf1190e4d96cde1885f54b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnGJ9CcqcJGBU6\nZH+LiPJqNJzLJTBO87VBNf3j8YFcdXOiqBYUncvl4gP3C6zUH56wzNImZmpZmfkb\n2CX+tYE8HDVCXEjj4a+WUT+sfytaRFiyw16T5kbVk/dLtUn3tLuClImr29p0y99R\nPOVpxRis/97LVKci5eziOzLKkNBYCb44Q1RV0FYzmAQPw/618/G5A4guHa6Z9Q3d\n7xWBmu1gg2W4pVljBhB3ILGe8X7m31VTd9TTfB1Mv3yB8zeU9q7wNSZ4Yg/3c4+b\neQWcsHpEf/5Qnw+Tm8ZCtmVQ19osatldsg58RpN/P8etqBXnn0Gg+jtzUxlhz/Ie\nVI/Q2rzxAgMBAAECggEAH71BDw2ZJdSRv7A0O+xs43iP6dRsCysmnDblvYTzpfzX\nVKep3gulHcrjJutsTjSdX4bgShP9Enz5QO07NlkCrcjL4wmFfOezAxH2zsyvDuvZ\nj0cl8WD1xn7fI93RKYCGd4TAa8kMg0/wYM145DDggYfuqV+wiaPz7XsCKFD+iiIs\niIyIVw9EqYLikuj7L1Y3y32WxYTmBta002fTWO4F0O4LLOWxbetwhA/dJgmi3ZiM\n8AUYOhFaH8UbTFLvWmeGWtJQEP8yEOe1t4fHvIkIIoIjmuKJUyJCMeGb8ox4cUmC\nTXPaRaw8vGGEWKGCFKuXct7jGM5fQbmR96oeNyJ00wKBgQDoauy1yhYv2XUB/yHc\nEBDJYLEdyM4fcRqKmAYyuvcWllJ311U7Svqr7v86hla6BveoZ/xn/DOdhwDY1Be1\nw01sbLk7LzGXpsGRCR5GRIBGubNHqSAP1LSz6JbvMZ3UHL/mEL4wTNeqVMBU/L8g\nlEmNBL4jCeIqAiC1EJrCuPb7VwKBgQC4DPbaBwKtUqu4enKwyOvdMnw34vUvw+WC\n87g8GpZ/a+o+/7h6ET2CoNI294+88TD8742j83nPM4ERMrDFHC4SX+86Ue8qV4xG\ntTOTkOPXTFwJemzy+1c0UnTO/TwfF+zuM4qsugIqmbzO+OO4YNee564I7tW7VS30\nUlaWzrok9wKBgDOquW58O0xt0hYcioFqTOEHjrgpULEqqpTO0OnsKEusJS8g/oCM\n3YblPXXcMWFvdRTJ8RGIvkyxm12YYKD2hrqovNDMYADvgC5m0YUba0zNsW4nycnb\nJkSsWwlXhVeHAJ37cNw56OOjrZH3EeIDNQqVWFNfuhhOmsjFpTHOfpFHAoGBAIg9\nEH1TsyeZioOEIGG8WNvkAw9bcSNqXvoQbtAO3lh0CXGY2XWCTYXkhbcqibvSzfBt\nYut5zzERbvjMDQ3bTj9LxEnnXKJ7K9srRoJ1PjKg04Awn3U9l8+jOdP+oAJkM34f\nqQcyqWffZWPP2MEi7nkyBiGWqZ+B7gJs8KuxWxkBAoGAMM9c0M+3J1J0tiHhhuIF\nk9arab+oFA7fgGmR0vvsJYjajKx8LZ/WGHHR/OgvhGDqoAU9Acz0Sy8WEA7Ev/+9\ngxVi9h6nFi/+fGjTwIJiXGibmZNM9i2xnX6tgU9yKGEN1QdOkDKW6WbEGzFMD7fx\nUl6hkPz03HcWI6v/e6l66MU=\n-----END PRIVATE KEY-----\n",
+    "client_email": "autofastfileservice@steadfast-task-305606.iam.gserviceaccount.com",
+    "client_id": "104794757867268904831",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/autofastfileservice%40steadfast-task-305606.iam.gserviceaccount.com"
+  }
+  
